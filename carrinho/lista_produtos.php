@@ -38,6 +38,6 @@ $listaProdutos = [
     ["item" => 8,
     "nome" => "Water Cooler Corsair H100 RGB - 240mm",
     "valor" => 609.99,
-    "imagem" => "/trabalho06/IMG/water.jpg"],
+    "imagem" => "/trabalho/IMG/water.jpg"],
 ];
 ?>
